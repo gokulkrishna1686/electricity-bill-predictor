@@ -1,0 +1,10 @@
+Model: RandomForestRegressor
+Best Parameters: n_estimators = 300, random_state = 42
+Dataset Used: Scaled (with outliers)
+
+Evaluation Metrics:
+- RMSE: 0.003489
+- R² Score: 0.999977
+
+Remarks:
+This model performed the best across all tested combinations. Scaling the data improved performance significantly, and removing outliers had little impact due to Random Forest's robustness.
