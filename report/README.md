@@ -1,4 +1,4 @@
-# Gokul Krishna Balaji, CS24B2053 – Electricity Bill Prediction
+# Gokul Krishna Balaji, CS24B2053 – Electricity Bill Predictor
 
 ## Overview
 
